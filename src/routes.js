@@ -1,7 +1,7 @@
-// ./source/routes.js
+// ./routes.js
 import Login from "./components/login/Login.vue";
 import ListTaskgroup from "./components/taskgroup/list-taskgroup/ListTaskgroup.vue";
-import ShowTaskgroup from "./components/taskgroup/show-taskgroup/Show-Taskgroup.vue";
+import ShowTaskgroup from "./components/taskgroup/show-taskgroup/ShowTaskgroup.vue";
 
 export const routes = [
   {

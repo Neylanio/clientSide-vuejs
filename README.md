@@ -1,4 +1,4 @@
-# vue-tasks-client2
+# vue-tasks-client
 
 > A Vue.js project
 

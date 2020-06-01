@@ -5,7 +5,11 @@
 </template>
 
 <script>
+import Login from "./components/login/Login";
+
 export default {
   name: "app"
 };
 </script>
+
+<style></style>
